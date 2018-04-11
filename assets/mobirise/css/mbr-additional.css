@@ -1372,49 +1372,47 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qORucsIdNE {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #232323, #149dcc);
+.cid-qOWJgqWYV9 {
+  background-image: url("../../../assets/images/keysmart-frameanim2.gif");
 }
-@media (min-width: 992px) {
-  .cid-qORucsIdNE .mbr-figure {
-    padding-left: 4rem;
-  }
+.cid-qOWJgqWYV9 h1 {
+  color: #616161;
 }
-@media (max-width: 991px) {
-  .cid-qORucsIdNE .mbr-figure {
-    padding-top: 3rem;
-  }
+.cid-qOWJgqWYV9 h2,
+.cid-qOWJgqWYV9 h3,
+.cid-qOWJgqWYV9 p {
+  color: #767676;
 }
-.cid-qORucsIdNE .mbr-section-title {
-  text-align: left;
+.cid-qOWJgqWYV9 .mbr-section-subtitle {
+  font-style: italic;
 }
-.cid-qORucsIdNE .mbr-text,
-.cid-qORucsIdNE .mbr-section-btn {
-  text-align: left;
+.cid-qOWJgqWYV9 H1 {
+  color: #ffffff;
 }
-.cid-qORycuKY4l {
+.cid-qOWJgqWYV9 P {
+  color: #ffffff;
+}
+.cid-qOWK7YDbrH {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #232323;
   background: linear-gradient(45deg, #232323, #0f7699);
 }
 @media (min-width: 992px) {
-  .cid-qORycuKY4l .mbr-figure {
+  .cid-qOWK7YDbrH .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-qORycuKY4l .mbr-figure {
+  .cid-qOWK7YDbrH .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qORycuKY4l .mbr-text {
+  .cid-qOWK7YDbrH .mbr-text {
     text-align: center;
   }
 }
-.cid-qORycuKY4l H1 {
+.cid-qOWK7YDbrH H1 {
   text-align: left;
 }
