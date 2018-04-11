@@ -1396,7 +1396,7 @@ body {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #232323;
-  background: linear-gradient(45deg, #232323, #0f7699);
+  background: linear-gradient(45deg, #232323, #efefef);
 }
 @media (min-width: 992px) {
   .cid-qOWK7YDbrH .mbr-figure {
